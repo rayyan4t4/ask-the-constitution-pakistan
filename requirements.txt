@@ -1,0 +1,6 @@
+streamlit>=1.32
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+numpy>=1.26
+requests>=2.31
+beautifulsoup4>=4.12
